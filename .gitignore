@@ -1,0 +1,1 @@
+*.so\n*.o\n__pycache__/\n*.pyc\nbench_constraint
